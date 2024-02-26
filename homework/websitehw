@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <b>This question is about HRML, CSS only </b>
+    <br> <br> <br>
+    <b>Please do not use advance coding. This task is for beginning of html, CSS only.
+    PLEASE MAKE SURE HTML CODE IS IN DIFFERENT PAGE AND CSS CODE IN ANOTHER PAGE AND HYPER LINK 
+     BOTH USING HREP </b>
+    <b style="color: red;">MOST IMPORTANT: DO NOT COPY CODES FROM SOMEWHERE AS IT WILL BE PLADIARISED. Write the entire
+        code yourself.
+    </b>
+    <br><br>
+TESK: Create a registration form using html & CSS.
+The form should get the following information
+<ul> 
+<li> Name</li>
+<li> Address</li>
+<li> Email [validate email]</li> Email [validate email]
+<li> Password</li>
+<li>Telephone number [if <1load warning to enter courntry code]</li>
+<li>Birdate [if age <13 load warning message, if >50 load help link] </li>
+<li>Summit Button</li>
+</ul>
+<br><br>
+</P> <p style="color: red;">Please only make button in the form for the bullet points mentioned above. Do not add any extra buttons.
+    </P>
+    <br><br>
+    Copy and paste code here also attac screenshots of outputs and inputs.
+    <br><br>
+    <H1>Criteria</H1>
+<ul>
+    <li> CSS follows best practices </li>
+        <li> CSS is reusable</li>
+    </li>
+
+</ul>
+</body>
+</html>
